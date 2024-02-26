@@ -14,4 +14,9 @@ A basic calculator project built with HTML, CSS, and JavaScript. It provides add
 - CSS
 - JavaScript
 
+## Project Preview
+![Screenshot from 2024-02-26 19-14-41](https://github.com/Code-me-nik/Calculator/assets/123573794/d113f55c-8a63-4729-a4a2-c456176b66e7)
+
+  
+
 Feel free to clone or fork this repository to explore the code and customize the calculator to suit your needs.
